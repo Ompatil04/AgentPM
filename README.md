@@ -103,18 +103,6 @@ AgentPM/
 5. Memory stores reflection
    → Next plan automatically uses past insights ✅
 
-🤝 Team
-NameNetIDAtharva Chavanatchavan@syr.eduVed Rautvuraut@syr.eduSwayam Badheswbadhe@syr.eduOm Patilopatil@syr.edu
-Course: CIS 600 — Applied Agentic AI Systems
-University: Syracuse University
-
-📚 References
-
-Yao et al. (2023). ReAct: Synergizing Reasoning and Acting in Language Models. ICLR.
-Park et al. (2023). Generative Agents: Interactive Simulacra of Human Behavior. CHI.
-Shinn et al. (2023). Reflexion: Language Agents with Verbal Reinforcement Learning. NeurIPS.
-Liu et al. (2024). Long-Term Memory for Large Language Models. arXiv.
-
 
 <div align="center">
 Built with ❤️ by <strong>OM</strong> · Syracuse University · Powered by Groq + Llama 3.3
